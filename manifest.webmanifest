@@ -1,0 +1,10 @@
+{
+  "name": "Daymark Tasks",
+  "short_name": "Daymark",
+  "description": "A personal task manager with voice capture and assistant-ready task data.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f5",
+  "theme_color": "#142a3a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
