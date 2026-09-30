@@ -5,9 +5,9 @@ Daymark is a personal task manager with an Inbox, Today, Upcoming, Completed, an
 ## Two versions
 
 - **GitHub Pages preview:** [Open Daymark](https://reyesjo2453.github.io/my-daymark/). This public static edition saves tasks in the current browser only.
-- **Private synced edition:** [Open connected Daymark](https://fitness-connect.reyesjo2453.chatgpt.site/daymark). Sign in with ChatGPT. Tasks sync to the private Fitness Connect account and can be read in ChatGPT while its personal plugin is connected. Sync runs after edits, when reopened, and while the page is visible.
+- **Private synced edition:** [Open connected Daymark](https://fitness-connect.reyesjo2453.chatgpt.site/daymark). Sign in with ChatGPT. Tasks sync to the private Personal Connect account and can be read in ChatGPT while its personal plugin is connected. Sync runs after edits, when reopened, and while the page is visible.
 
-The app source is public, but task records and sign-in data are not stored in this repository. The private edition uses Fitness Connect's authenticated backend. The assistant embedded in the app currently handles a few local task commands; ChatGPT can use the connected read tools to review synced tasks.
+The app source is public, but task records and sign-in data are not stored in this repository. The private edition uses Personal Connect's authenticated backend. The assistant embedded in the app currently handles a few local task commands; ChatGPT can use the connected read tools to review synced tasks.
 
 ## Features
 
